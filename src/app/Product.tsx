@@ -5,12 +5,12 @@ import { Title } from "@/components/Title"
 import { ButtonIcon } from "@/components/ButtonIcon"
 
 
-export function Home(){
+export function Product(){
     return(
     <View style={{flex: 1, padding: 32}}>
         <Header>
+            <ButtonIcon name="arrow-circle-left"/>
             <Title>Home</Title>
-            <ButtonIcon name="add-circle"/>
         </Header>
 
     </View>
