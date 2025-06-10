@@ -1,6 +1,6 @@
-import { Product } from "@/app/Product";
+import { Routes } from "@/routes";
 
 export default function App() {
-  return <Product/>;
+  return <Routes/>;
 }
 
