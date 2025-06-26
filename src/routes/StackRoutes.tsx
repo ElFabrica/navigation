@@ -2,7 +2,7 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { NativeStackScreenProps } from "@react-navigation/native-stack"
 
 import { Product } from "@/app/Product";
-import { Home } from "@/app/home";
+import { Home } from "@/app/Home";
 
 export type StackRoutesList ={
     home: undefined
