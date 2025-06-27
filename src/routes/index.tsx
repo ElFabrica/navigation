@@ -2,7 +2,7 @@ import { NavigationContainer } from "@react-navigation/native";
 
 
 import { StacksRoutes } from "./StackRoutes";
-import { TabRoutesProps } from "./TabRoutes ";
+import { BottomRoutesProps } from "./BottomRoutes ";
 
 export function Routes(){
     return(
